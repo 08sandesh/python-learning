@@ -1,0 +1,6 @@
+print("This is a \n new line")
+print("This is \t a space")
+print("This is to print :- \" ")
+print("This is to print :- \'")
+print("This is to print :- \\")
+print("This is to print :- \\n")
